@@ -8,22 +8,22 @@
 
 <div style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/ester-frazao/" target="_blank" title="Linkedin">
-    <svg xmlns="http://www.w3.org/2000/svg" width="3em" height="3em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="#cfb62b" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77Z"/></svg>
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%23cfb62b" alt="Portifolio" style="width:3rem; height:3rem;" />
   </a>
   <a href="mailto:tafnisbonbon@gmail.com" target="_blank" title="tafnisbonbon@gmail.com">
-    <svg xmlns="http://www.w3.org/2000/svg" width="3em" height="3em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path fill="#cfb62b" d="M22 4H2v16h20V4zm-2 4l-8 5l-8-5V6l8 5l8-5v2z"/></svg>
+    <img src="https://api.iconify.design/mdi/email.svg?color=%23cfb62b" alt="Portifolio" style="width:3rem; height:3rem;" />
   </a>
   <a href="https://portifolio-next-esterfrazao.vercel.app/" target="_blank" title="Portifólio">
-    <svg xmlns="http://www.w3.org/2000/svg" width="3em" height="3em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="#cfb62b"><path fill-rule="evenodd" d="M14 7a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1h-4Zm3 2h-2v6h2V9Z" clip-rule="evenodd"/><path d="M6 7a1 1 0 0 0 0 2h4a1 1 0 1 0 0-2H6Zm0 4a1 1 0 1 0 0 2h4a1 1 0 1 0 0-2H6Zm-1 5a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2H6a1 1 0 0 1-1-1Z"/><path fill-rule="evenodd" d="M4 3a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h16a3 3 0 0 0 3-3V6a3 3 0 0 0-3-3H4Zm16 2H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1Z" clip-rule="evenodd"/></g></svg>
+    <img src="https://api.iconify.design/gg/website.svg?color=%23cfb62b" alt="Portifolio" style="width:3rem; height:3rem;" />
   </a>
 </div>
 
 <br>
 
-Tenho 20 anos de idade e entrei pra área de desenvolvimento web pela Kenzie Academy como Front End, iniciei essa jornada em Novembro de 2021 e permaneço empolgada a aprender novas tecnologias e a fazer códigos cada vez melhores!
+Tenho 21 anos de idade e entrei pra área de desenvolvimento web pela Kenzie Academy como Front End, iniciei essa jornada em Novembro de 2021, prossegui com a formação FullStack e permaneço empolgada a aprender novas tecnologias e a fazer códigos cada vez melhores!
 
 - 😄 Pronomes: Ela/ Dela
-- 👯 Procurando colaborar como **Desenvolvedora Front End**
+- 👯 Procurando colaborar como **Desenvolvedora FullStack**
 
 ## 🌱 Atualmente aprendendo:
 
