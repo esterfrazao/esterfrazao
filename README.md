@@ -1,7 +1,7 @@
 # Ester Táfnis
 
 <div style="display: flex; justify-content: flex-start;">
-<img style="width: 250px; margin-left: 50px" src="https://c.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif"/>
+<img style="width: 250px; margin-left: 50px" src="./assets/typing.gif"/>
 </div>
 
 ## Contatos e Sobre
